@@ -1,0 +1,21 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    background-color: darksalmon;
+    color:white;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    margin:0;
+    overflow: hidden;
+}
+
+nav {
+    justify-content: center;
+    display: flex;
+    background-color: rgba(233, 150, 122, 0.722);
+    text-decoration: none;
+}
